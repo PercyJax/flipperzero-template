@@ -25,7 +25,7 @@ Currently supports SDK 35.0 ([flipperzero-firmware@0.89.0](https://github.com/fl
 ## Generate the project
 1. Use `cargo generate` to clone this template:
     ```
-    cargo generate --git https://github.com/flipperzero-rs/flipperzero-template.git --name my-project
+    cargo generate --git https://github.com/PercyJax/flipperzero-template.git --name my-project
     ```
 1. Switch into the local directory:
     ```

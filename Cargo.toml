@@ -17,6 +17,6 @@ bench = false
 test = false
 
 [dependencies]
-flipperzero = { version = "0.11.0" }
-flipperzero-sys = { version = "0.11.0" }
-flipperzero-rt = { version = "0.11.0" }
+flipperzero = { version = "0.11.0", git = "https://github.com/PercyJax/flipperzero-rs.git" }
+flipperzero-sys = { version = "0.11.0", git = "https://github.com/PercyJax/flipperzero-rs.git" }
+flipperzero-rt = { version = "0.11.0", git = "https://github.com/PercyJax/flipperzero-rs.git" }
