@@ -10,6 +10,8 @@ extern crate flipperzero_rt;
 use flipperzero::println;
 use flipperzero_rt::{entry, manifest};
 
+use core::ffi::CStr;
+
 // Define the FAP Manifest for this application
 manifest!(
     name = "Flipper Zero Rust",
